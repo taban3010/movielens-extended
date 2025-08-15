@@ -15,6 +15,7 @@
 - [Extension](#extension)
 - [Deployment Guide](#deployment-guide)
 - [Usage Instructions](#usage-instructions)
+- [Solution Documentation](#solution-documentation)
 - [Contribution](#contribution)
 - [References](#references)
 
@@ -491,6 +492,20 @@ After completing all steps, use the "Restart" button to begin a new analysis wit
 - Rating distribution patterns reveal user behavior
 - Similarity heatmaps show user/item relationships
 - Recommendation scatter plots display prediction confidence
+
+---
+
+## Solution Documentation
+
+For a detailed explanation of the development journey, algorithm implementation challenges, and technical solutions, please refer to the comprehensive [SOLUTION.md](SOLUTION.md) file. This document provides:
+
+- **Development Journey**: Step-by-step progression from basic collaborative filtering to advanced matrix factorization
+- **Technical Challenges**: Detailed analysis of scalability, sparsity, and performance issues encountered
+- **Implementation Details**: Code explanations, optimization strategies, and algorithm comparisons
+- **Research Foundation**: Background research that informed algorithm selection and design decisions
+- **Performance Analysis**: Detailed evaluation metrics and comparison results
+
+The SOLUTION.md serves as a technical companion to this README, offering deeper insights into the reasoning behind implementation choices and the complete development process.
 
 ---
 
